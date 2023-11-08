@@ -16,6 +16,6 @@ export function modifyStatut(array, newStatut, index) {
 }
 
 /* c8 ignore next 3 */
-function toto(){
-    console.log("bastos jtm")
-}
+// function toto(){
+//     console.log("bastos jtm")
+// }
